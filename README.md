@@ -56,7 +56,7 @@ A website tests two webpage designs to find which version drives higher user eng
 This script provides statistical evidence to indicate whether the experimental design (new webpage) leads to a higher click rate than the control (original webpage).
 
 <p align="center">
-  <img src="https://github.com/sah1awy/Lunar_Button_AB_Test/blob/main/assets/Test.png" alt="A/B Testing Results">
+  <img src="https://github.com/sah1awy/Lunar_Button_AB_Test/blob/main/assets/Test2.png" alt="A/B Testing Results">
 </p>
 
 ### Decision Making
