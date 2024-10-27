@@ -16,7 +16,7 @@ Simulate click data for an experimental group (`exp`) and a control group (`con`
 - **Merged Data**: Combines `df_exp` and `df_con` into a single DataFrame, `df_ab_test`, for analysis.
 
 <p align="center">
-  <img src="https://github.com/TatevKaren/CaseStudies/assets/76843403/7b754602-d3a7-42ad-961c-9e9b276aa9ed" alt="Data simulation for A/B testing">
+  <img src="https://github.com/sah1awy/Lunar_Button_AB_Test/blob/main/assets/Count.png" alt="Data simulation for A/B testing">
 </p>
 
 ---
@@ -56,7 +56,7 @@ A website tests two webpage designs to find which version drives higher user eng
 This script provides statistical evidence to indicate whether the experimental design (new webpage) leads to a higher click rate than the control (original webpage).
 
 <p align="center">
-  <img src="https://github.com/TatevKaren/CaseStudies/assets/76843403/a8ada9b2-4fe2-4381-875f-199d7a9a9c22" alt="A/B Testing Results">
+  <img src="https://github.com/sah1awy/Lunar_Button_AB_Test/blob/main/assets/Test.png" alt="A/B Testing Results">
 </p>
 
 ### Decision Making
